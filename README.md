@@ -1,6 +1,12 @@
 
 # Pokemon Hứng Bóng
 
+<p align="center">
+  <img src="/Export Package/Start.png" alt="Start" width="100%" style="display: block; margin-bottom: 20px;">
+  <img src="/Export Package/GamePlay.png" alt="GamePlay" width="100%" style="display: block; margin-bottom: 20px;">
+  <img src="/Export Package/GameOver.png" alt="GameOver" width="100%" style="display: block;">
+</p>
+
 **Pokemon Hứng Bóng** là một mini-game giải trí nơi người chơi điều khiển một huấn luyện viên để bắt bóng Poké rơi từ trên trời xuống. Trò chơi được phát triển bằng **Unity**, lấy cảm hứng từ phong cách arcade cổ điển kết hợp với chủ đề Pokémon vui nhộn.
 
 ## Giới thiệu
