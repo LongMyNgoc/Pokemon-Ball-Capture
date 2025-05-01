@@ -45,4 +45,8 @@ Trò chơi được chia thành 3 cấp độ dựa trên số điểm bạn đ�
 
 ## Ghi chú
 
-Đây là một dự án cá nhân/học tập nhằm mục đích luyện tập kỹ năng lập trình và phát triển game với Unity. Toàn bộ tài sản sử dụng trong dự án là từ nguồn công khai hoặc do tác giả tạo ra.
+Đây là một dự án cá nhân/học tập nhằm mục đích luyện tập kỹ năng lập trình và phát triển game với Unity. Toàn bộ tài sản sử dụng trong dự án là từ nguồn công khai hoặc do tác giả tạo ra. 
+
+## Thông tin liên hệ
+- 📧 Email: nguyenphilong.dev@gmail.com
+- 🌐 Portfolio: https://nguyenphilongportfolio.vercel.app/
